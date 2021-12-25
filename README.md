@@ -1,28 +1,31 @@
-![ cover photo info](img/banner-new.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A97&size=48&width=800&height=200&lines=David+Guevara+-+Cyber+Security+Consultant)](https://git.io/typing-svg)
+
 
 <h2 align="center">My skillset</h2>
 
+    
+    
 <div align="center">
     <table align="center">
         <thead>
-            <th><span align="middle">Expert</span></th>
-            <th><span align="middle">Improve</span></th>
+            <th><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" style="width:18px"/>&ensp;<span align="middle">Intermediate</span></th>
+            <th><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18px">&ensp;<span align="middle">Improve</span></th>
             <th><span align="middle">Learn</span></th>
         </thead>
         <tbody>
             <tr>
                 <td>
                     <a>
-                        <img  src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black" alt="html badge" />
-                    </a>
-                    <a>
-                        <img  src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black" alt="css badge" />
+                        <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java badge" />
                     </a>
                     <a>
                         <img  src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript badge" />
                     </a>
                     <a>
-                        <img  src="https://img.shields.io/badge/C%20Sharp%20-%2323912.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black" alt="csharp badge" />
+                        <img  src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black" alt="html badge" />
+                    </a>
+                    <a>
+                        <img  src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black" alt="css badge" />
                     </a>
                 </td>
                 <td align="center">
